@@ -1,2 +1,2 @@
-# CSCI112
-Projects written during CSCI 112
+# Checking Account Lab
+Reads the details of a monthly checking account and outputs a bank statement summarizing these transactions.
